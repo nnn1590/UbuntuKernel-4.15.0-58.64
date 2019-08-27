@@ -1,3 +1,9 @@
+linux (4.15.0-58.64+patch1) bionic; urgency=medium
+
+  * Patch https://raw.githubusercontent.com/fail0verflow/shofel2/master/linux-ehci-enable-large-ctl-xfers.patch
+
+ -- NNN1590 <28985763+nnn1590@users.noreply.github.com>  Thu, 06 Aug 2019 00:46:06 +0900
+
 linux (4.15.0-58.64) bionic; urgency=medium
 
   * unable to handle kernel NULL pointer dereference at 000000000000002c (IP:
